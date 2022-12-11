@@ -2,6 +2,14 @@
 
 This is a simple API that returns information about the characters of the TV show "Ricky and Morty".
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Screenshots
+
+![Screenshot](https://raw.githubusercontent.com/elyin/ricky-and-morty-api/master/screenshot.png)
+
 ## Endpoints
 
 ### GET /api/character
