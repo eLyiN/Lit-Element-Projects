@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/elyin/ricky-and-morty-api/master/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/20600238/206932812-8af394ad-2f7c-484a-8feb-93902ea73550.png)
+
 
 ## Endpoints
 
