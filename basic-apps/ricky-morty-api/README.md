@@ -85,6 +85,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Author
 
-- **Adrián Arribas** - _Initial work_ - [elyin](
-
-=======
+- **Adrián Arribas** - _Initial work_ - [elyin]
